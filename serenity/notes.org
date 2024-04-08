@@ -1,0 +1,7 @@
+#+TITLE: Serenity Notes
+#+Author: Aziz Amerul Faozi
+
+
+<2024-04-08 Sen> : Lets update some idf and adf development to make sure it can be done easily.
+
+
